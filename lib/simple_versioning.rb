@@ -38,3 +38,4 @@ module SimpleVersioning
 end
 
 # "test on file"
+ActiveRecord::Base.send :include, SimpleVersioning::InstanceMethods
