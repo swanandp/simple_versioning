@@ -80,6 +80,7 @@ Thats it!
 - Mutator methods
 
 
-== Thanks!
+### Thanks!
 
-Thanks to laserlemon[http://github.com/laserlemon] and his `vestal_versions` gem
+Thanks to [laserlemon](http://github.com/laserlemon "") and his [`vestal_versions`](https://github.com/laserlemon/vestal_versions "") gem!
+
