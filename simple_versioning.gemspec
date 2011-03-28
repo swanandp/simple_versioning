@@ -8,9 +8,9 @@ Gem::Specification.new do |s|
   s.platform    = Gem::Platform::RUBY
   s.authors     = ["Swanand Pagnis"]
   s.email       = ["swanand@kaverisoft.com"]
-  s.homepage    = "http://github.com/spp/simple_versioning"
-  s.summary     = %q{Provide a vanilla versioning support}
-  s.description = %q{Keeps track of your models attributes}
+  s.homepage    = "http://github.com/swanandp/simple_versioning"
+  s.summary     = %q{Provide a vanilla versioning support for ActiveRecord}
+  s.description = %q{Keeps track of all your models attributes in a polymorphically associated table}
 
   s.rubyforge_project = "simple_versioning"
 
